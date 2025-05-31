@@ -27,7 +27,7 @@
 
        header > p {
         font-size: 1.2em;
-        margin-bottom: 20px;
+        padding-bottom: 20px;
        }
         
        nav {
@@ -154,6 +154,10 @@
        
        img {
         width: 100%;
+       }
+
+       #bugdroid {
+        color: #1A5C38;
        }
 
        
